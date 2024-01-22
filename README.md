@@ -6,6 +6,9 @@ Changes the desktop wallpaper at specified intervals, every minute. Developed in
 * Guna.UI2.WinForms.2.0.4.6
 * HtmlAgilityPack.1.11.57
 
+## Download
+[WallpaperChanger.zip](https://github.com/VigneshDev1309/WallpaperChanger/releases/tag/Release)
+
 ## Video Demonstration
 https://github.com/VigneshDev1309/WallpaperChanger/assets/132240325/d4a7847d-a81e-4a0f-a825-f424c4d9158d
 
